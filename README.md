@@ -16,7 +16,7 @@ This project predicts whether a person has diabetes using a Diabetes dataset. A 
 git clone https://github.com/Yasmine-Kamel/diabetes-prediction.git
 cd Diabetes-Prediction
 pip install -r requirements.txt
-
+```
 
 **Run the Streamlit App (Interactive Demo)**
 
